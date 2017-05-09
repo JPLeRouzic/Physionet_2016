@@ -1,0 +1,2 @@
+# Physionet_2016
+This is a copy of the most accurate submission to Physionet 2016. The goal of the challenge was to  encourage the development of algorithms to classify heart sound recordings collected from a variety of clinical or nonclinical (such as in-home visits) environments. The aim is to identify, from a single short recording (10-60s) from a single precordial location, whether the subject of the recording should be referred on for an expert diagnosis. The URL of this challenge is: https://physionet.org/challenge/2016/sources/ 
